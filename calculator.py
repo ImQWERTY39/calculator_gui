@@ -4,7 +4,7 @@ from tkinter.constants import END
 # screen
 window = tk.Tk()
 window.title("Calculator")
-window.iconbitmap("E:/ImQWERTY/My use/Pictures/calculator.ico")
+window.iconbitmap("calculator.ico")
 
 # place to type in
 enter = tk.Entry(window, width = 45, borderwidth = 10)
